@@ -1,0 +1,12 @@
+Front-End Server:
+-HTML/CSS front end
+-Python for back end access
+
+Back-End Server:
+-MySQL database
+-Email client
+
+File Uploads Process:
+-Generate directory on back-end server
+-Uploaded file will be placed in directory
+-Timestamp will be added to database to determine when to send file/email
